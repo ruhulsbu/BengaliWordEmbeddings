@@ -1,6 +1,6 @@
 # BengaliWordEmbeddings
 
-Codebase will be updated soon. Pleae download the embeddings from the following link:
+Codebase will be updated soon. Pleae download the embeddings from the following links:
 
 
 - 200 Dimensional CBOW Model: 
